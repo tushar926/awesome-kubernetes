@@ -85,6 +85,7 @@ Starting Point
 * [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
 * [Cloud Native Landscape](https://landscape.cncf.io/)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) by [Farhan Hasin Chowdhury](https://twitter.com/frhnhsin)
+* [Learn Kubernetes](https://blog.coursesity.com/best-kubernetes-tutorials/) - Learn Kubernetes - curated list of the best kubernetes online tutorials
 
 Contributing
 =======================================================================
